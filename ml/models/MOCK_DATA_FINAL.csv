@@ -1,0 +1,1001 @@
+store_name,rider_name,store_delivery,rider_store,packaging_time,rating,output
+Bloor Street,Ananya,6.982,3.83,2.2,2,2
+Bloor Street,Dipak,6.97,2.358,2.9,5,2
+Market Real,Ananya,6.969,2.252,4.4,5,1
+Market Real,Janvi,6.966,3.018,6.6,4,1
+Bromley Food Store,Janvi,6.958,2.691,2.0,3,5
+Pepper’s Grocery,Pauliene,6.955,1.118,3.9,3,5
+Sunrise Mart,Yamraj,6.942,2.425,6.9,5,3
+Clover Grocery,Yamraj,6.938,2.729,5.1,3,5
+Superstore Save-On-Foods,Ananya,6.933,3.038,5.3,1,5
+Market Real,Dipak,6.93,1.109,1.1,5,3
+Bromley Food Store,Yamraj,6.919,3.574,5.2,2,3
+Bloor Street,Anushka,6.919,1.775,5.8,5,2
+The Grocery Outlet,Yamraj,6.918,3.27,1.3,2,4
+The Grocery Outlet,Dipak,6.912,1.093,5.6,1,4
+Bloor Street,Karthikey,6.904,2.544,6.0,3,2
+Sunrise Mart,Karthikey,6.902,2.517,5.8,1,2
+Bloor Street,Sambhavi,6.9,3.862,3.9,4,2
+Bloor Street,Rahul,6.896,3.236,1.1,2,5
+Market Real,Yamraj,6.892,3.297,2.4,4,5
+Superstore Save-On-Foods,Ananya,6.88,1.183,5.5,1,1
+Pepper’s Grocery,Yamraj,6.873,2.561,1.0,2,5
+Superstore Save-On-Foods,Anushka,6.867,2.685,3.3,3,2
+Clover Grocery,Ananya,6.862,2.548,4.6,3,1
+Bromley Food Store,Janvi,6.86,2.522,4.4,1,5
+Superstore Save-On-Foods,Anushka,6.859,3.779,3.3,2,4
+The Grocery Outlet,Anushka,6.856,3.683,6.2,1,5
+The Grocery Outlet,Ananya,6.85,2.851,6.7,3,2
+Bromley Food Store,Karthikey,6.848,1.769,5.6,4,1
+Pepper’s Grocery,Vedant,6.84,2.114,4.7,5,5
+Pepper’s Grocery,Janvi,6.833,3.439,2.4,2,1
+Market Real,Karthikey,6.829,1.763,3.8,3,3
+Superstore Save-On-Foods,Rakesh,6.826,2.675,2.6,1,2
+Bromley Food Store,Sambhavi,6.82,1.548,5.9,5,4
+Bloor Street,Anushka,6.82,2.228,2.5,5,5
+Clover Grocery,Dipak,6.819,3.242,3.1,4,2
+The Grocery Outlet,Rahul,6.814,3.453,3.6,1,3
+Market Real,Sambhavi,6.807,2.394,5.0,3,2
+Clover Grocery,Sambhavi,6.794,1.631,1.9,1,4
+Superstore Save-On-Foods,Yamraj,6.793,1.905,4.6,5,4
+Pepper’s Grocery,Anushka,6.787,2.314,4.7,2,5
+Market Real,Pauliene,6.787,1.223,2.8,5,2
+The Grocery Outlet,Anushka,6.786,2.233,3.7,3,3
+Superstore Save-On-Foods,Janvi,6.779,1.554,6.6,3,5
+Market Real,Karthikey,6.776,3.641,3.6,4,4
+The Grocery Outlet,Rahul,6.775,1.653,3.6,4,1
+Clover Grocery,Ananya,6.775,2.351,6.8,5,1
+Bloor Street,Vedant,6.767,2.456,6.8,4,1
+Superstore Save-On-Foods,Dipak,6.755,1.959,6.1,4,1
+Superstore Save-On-Foods,Yamraj,6.751,2.911,5.6,5,4
+Pepper’s Grocery,Anushka,6.75,3.671,5.6,5,2
+Superstore Save-On-Foods,Sambhavi,6.747,1.7,1.2,1,3
+The Grocery Outlet,Yamraj,6.734,2.006,1.8,3,4
+Bromley Food Store,Anushka,6.731,2.649,2.4,4,4
+Pepper’s Grocery,Rakesh,6.725,2.47,1.6,5,4
+Market Real,Sambhavi,6.711,1.142,3.5,4,3
+Clover Grocery,Sambhavi,6.711,3.811,5.5,5,2
+Pepper’s Grocery,Pauliene,6.709,1.186,1.0,4,5
+Bloor Street,Vedant,6.709,3.352,6.3,2,5
+Superstore Save-On-Foods,Karthikey,6.708,2.772,1.1,4,1
+Pepper’s Grocery,Pauliene,6.707,3.228,4.3,2,1
+Clover Grocery,Yamraj,6.697,2.891,4.7,3,5
+Superstore Save-On-Foods,Rakesh,6.694,2.025,3.5,4,1
+The Grocery Outlet,Pauliene,6.676,1.804,4.5,5,3
+Superstore Save-On-Foods,Pauliene,6.675,2.596,6.9,2,2
+Bloor Street,Sambhavi,6.671,4.0,2.8,2,1
+Market Real,Pauliene,6.67,3.699,1.7,3,5
+Sunrise Mart,Sambhavi,6.658,3.551,4.9,2,1
+Superstore Save-On-Foods,Sambhavi,6.654,1.375,5.2,4,3
+The Grocery Outlet,Karthikey,6.653,2.618,6.7,4,1
+Clover Grocery,Ananya,6.641,3.061,4.4,4,4
+Market Real,Rakesh,6.64,1.273,2.9,5,4
+Market Real,Vedant,6.636,1.042,5.4,1,2
+The Grocery Outlet,Rakesh,6.624,3.147,4.8,2,5
+Bromley Food Store,Yamraj,6.614,3.79,4.3,5,4
+Market Real,Janvi,6.613,3.768,6.6,3,5
+Pepper’s Grocery,Vedant,6.596,3.194,6.2,3,2
+Sunrise Mart,Pauliene,6.595,1.115,6.0,4,5
+Pepper’s Grocery,Sambhavi,6.583,1.754,6.2,1,3
+Sunrise Mart,Rakesh,6.571,3.462,2.9,3,5
+Pepper’s Grocery,Sambhavi,6.565,1.418,6.5,2,2
+Sunrise Mart,Vedant,6.559,3.949,3.2,3,2
+Sunrise Mart,Rahul,6.555,1.528,5.8,2,4
+Bromley Food Store,Yamraj,6.537,2.8,5.1,1,5
+Bromley Food Store,Vedant,6.53,3.23,5.9,1,1
+The Grocery Outlet,Rahul,6.528,1.665,2.9,5,3
+Superstore Save-On-Foods,Anushka,6.516,2.687,3.2,2,4
+The Grocery Outlet,Janvi,6.509,1.687,5.8,5,4
+Market Real,Rakesh,6.487,2.941,2.8,1,4
+Clover Grocery,Sambhavi,6.484,2.987,1.3,3,4
+Bloor Street,Yamraj,6.476,3.056,2.6,5,5
+Market Real,Rahul,6.462,2.59,1.6,3,4
+Sunrise Mart,Dipak,6.45,1.137,1.4,3,4
+Clover Grocery,Rakesh,6.449,3.05,1.8,5,4
+Superstore Save-On-Foods,Karthikey,6.441,1.347,1.8,4,1
+Sunrise Mart,Rakesh,6.44,1.024,1.4,1,1
+Bloor Street,Pauliene,6.433,2.321,6.1,3,2
+The Grocery Outlet,Janvi,6.431,3.768,6.2,1,1
+Market Real,Janvi,6.424,2.088,5.2,3,4
+The Grocery Outlet,Dipak,6.423,3.859,6.2,3,2
+Clover Grocery,Rakesh,6.412,3.865,5.0,3,2
+Clover Grocery,Pauliene,6.405,1.695,5.5,5,4
+Bloor Street,Ananya,6.404,2.396,1.7,2,4
+The Grocery Outlet,Yamraj,6.376,1.509,2.9,2,1
+The Grocery Outlet,Yamraj,6.375,1.743,2.0,3,2
+Clover Grocery,Karthikey,6.373,2.516,6.9,2,2
+Clover Grocery,Yamraj,6.37,2.946,2.6,5,3
+Market Real,Rakesh,6.369,2.586,1.5,3,4
+Pepper’s Grocery,Rakesh,6.364,3.361,5.0,3,4
+The Grocery Outlet,Sambhavi,6.361,3.466,6.6,1,3
+Bloor Street,Yamraj,6.358,3.789,3.0,5,4
+Clover Grocery,Karthikey,6.357,2.164,2.7,4,1
+The Grocery Outlet,Karthikey,6.354,1.152,5.5,5,1
+Clover Grocery,Janvi,6.351,1.454,4.4,5,2
+Market Real,Sambhavi,6.351,1.422,3.5,2,2
+Superstore Save-On-Foods,Dipak,6.35,1.502,2.1,4,5
+Bromley Food Store,Karthikey,6.346,2.124,3.0,4,2
+Sunrise Mart,Rahul,6.346,3.395,3.5,2,4
+Pepper’s Grocery,Rakesh,6.343,2.673,4.4,1,2
+Pepper’s Grocery,Yamraj,6.332,2.964,3.5,1,3
+Bloor Street,Yamraj,6.33,1.071,4.1,2,5
+Superstore Save-On-Foods,Rahul,6.325,1.2,6.7,4,5
+Market Real,Rakesh,6.315,2.15,1.2,2,5
+Sunrise Mart,Sambhavi,6.314,3.295,1.4,5,1
+Market Real,Dipak,6.312,3.305,5.3,2,1
+The Grocery Outlet,Rakesh,6.312,2.821,2.7,3,4
+Bromley Food Store,Sambhavi,6.309,3.502,6.8,1,1
+Sunrise Mart,Rahul,6.302,3.758,2.7,1,1
+Bromley Food Store,Vedant,6.299,2.016,4.5,4,5
+Bromley Food Store,Rahul,6.286,3.739,1.8,2,1
+Bromley Food Store,Dipak,6.286,1.962,3.7,3,2
+Superstore Save-On-Foods,Karthikey,6.283,1.108,3.9,1,3
+Market Real,Rahul,6.27,1.222,3.9,1,4
+Bloor Street,Anushka,6.269,2.747,2.4,3,5
+The Grocery Outlet,Anushka,6.265,2.309,2.2,4,3
+Clover Grocery,Anushka,6.265,2.526,6.3,5,3
+The Grocery Outlet,Ananya,6.264,3.254,5.1,2,3
+The Grocery Outlet,Rakesh,6.261,1.28,3.5,5,4
+Pepper’s Grocery,Ananya,6.254,1.36,1.7,2,1
+Bromley Food Store,Dipak,6.235,2.736,1.4,3,2
+Superstore Save-On-Foods,Karthikey,6.235,2.898,6.8,2,4
+The Grocery Outlet,Anushka,6.224,2.489,4.6,3,5
+Pepper’s Grocery,Dipak,6.223,3.465,4.8,4,2
+Superstore Save-On-Foods,Anushka,6.211,1.634,1.3,1,4
+Sunrise Mart,Karthikey,6.195,1.755,6.6,2,3
+Sunrise Mart,Anushka,6.181,1.44,1.7,5,2
+Sunrise Mart,Vedant,6.173,1.789,6.6,2,2
+Bromley Food Store,Janvi,6.173,2.584,2.8,5,1
+The Grocery Outlet,Vedant,6.168,1.033,2.4,5,4
+Clover Grocery,Ananya,6.164,1.969,1.4,4,5
+Superstore Save-On-Foods,Vedant,6.158,2.348,4.1,5,5
+Bloor Street,Sambhavi,6.152,3.524,3.9,1,4
+Sunrise Mart,Pauliene,6.147,3.352,4.8,1,2
+Sunrise Mart,Sambhavi,6.132,1.459,4.5,2,4
+Superstore Save-On-Foods,Dipak,6.129,3.479,2.6,4,5
+Market Real,Rakesh,6.122,3.159,3.5,3,4
+Superstore Save-On-Foods,Rakesh,6.119,1.518,2.7,5,4
+Bromley Food Store,Janvi,6.119,2.069,2.5,4,3
+The Grocery Outlet,Karthikey,6.111,1.264,4.0,3,1
+Bloor Street,Vedant,6.111,2.389,6.8,5,2
+Bromley Food Store,Ananya,6.11,2.78,1.7,1,2
+Pepper’s Grocery,Anushka,6.102,3.391,4.6,1,3
+Bromley Food Store,Karthikey,6.089,1.735,4.2,4,2
+Bloor Street,Rahul,6.087,1.527,6.2,2,4
+Clover Grocery,Rahul,6.086,1.223,4.6,5,4
+The Grocery Outlet,Anushka,6.061,1.6,4.5,2,3
+The Grocery Outlet,Vedant,6.06,1.002,2.4,2,3
+Sunrise Mart,Rakesh,6.06,3.512,6.0,1,2
+Sunrise Mart,Karthikey,6.059,2.935,1.2,5,2
+The Grocery Outlet,Vedant,6.048,3.69,3.7,3,3
+Market Real,Karthikey,6.044,2.572,5.4,5,1
+Pepper’s Grocery,Rakesh,6.039,3.37,6.2,4,3
+Pepper’s Grocery,Rakesh,6.036,2.622,1.1,5,4
+Market Real,Ananya,6.024,1.316,3.4,4,3
+Bromley Food Store,Karthikey,6.009,2.56,6.4,3,1
+The Grocery Outlet,Vedant,6.008,2.992,1.7,3,5
+Bloor Street,Rahul,6.002,2.922,6.1,1,1
+Market Real,Anushka,5.989,1.328,5.8,2,5
+Bloor Street,Pauliene,5.988,1.182,4.8,5,2
+Bloor Street,Rakesh,5.985,2.224,3.5,2,4
+Clover Grocery,Anushka,5.982,3.573,1.6,5,5
+Market Real,Rahul,5.981,3.122,5.9,1,3
+Bromley Food Store,Rakesh,5.965,1.015,1.4,2,5
+Superstore Save-On-Foods,Dipak,5.962,2.121,6.7,4,3
+Superstore Save-On-Foods,Vedant,5.948,2.713,6.4,2,4
+Clover Grocery,Pauliene,5.939,2.67,2.2,2,1
+Pepper’s Grocery,Rahul,5.925,3.801,5.4,1,4
+The Grocery Outlet,Vedant,5.912,2.044,1.9,5,5
+Superstore Save-On-Foods,Rakesh,5.909,1.173,2.9,4,3
+Bromley Food Store,Dipak,5.9,3.008,3.4,2,4
+Sunrise Mart,Sambhavi,5.897,1.501,1.2,3,1
+Clover Grocery,Yamraj,5.89,2.698,5.6,5,3
+Bromley Food Store,Sambhavi,5.89,2.237,3.7,3,3
+Bloor Street,Rahul,5.886,1.098,5.7,1,5
+Market Real,Ananya,5.885,1.584,5.0,2,2
+Sunrise Mart,Rakesh,5.883,3.66,4.9,4,4
+Pepper’s Grocery,Janvi,5.872,2.475,2.5,2,5
+Sunrise Mart,Rahul,5.868,1.263,6.7,1,3
+Bromley Food Store,Rakesh,5.861,3.231,6.3,1,5
+The Grocery Outlet,Pauliene,5.858,2.341,6.4,1,3
+Sunrise Mart,Ananya,5.857,2.857,5.2,2,1
+Pepper’s Grocery,Yamraj,5.849,2.465,4.2,5,4
+Bromley Food Store,Pauliene,5.848,3.783,5.8,2,3
+Sunrise Mart,Ananya,5.844,1.634,3.1,4,3
+Superstore Save-On-Foods,Dipak,5.827,1.649,5.4,4,3
+Sunrise Mart,Janvi,5.819,2.345,4.4,2,5
+Market Real,Karthikey,5.818,2.988,2.0,1,2
+Bromley Food Store,Rakesh,5.808,3.447,2.6,1,4
+Market Real,Ananya,5.807,2.21,5.7,5,1
+Pepper’s Grocery,Ananya,5.803,1.861,2.5,4,2
+The Grocery Outlet,Yamraj,5.796,3.923,2.6,3,4
+Clover Grocery,Anushka,5.764,3.038,4.8,5,4
+Market Real,Sambhavi,5.744,1.373,5.9,1,1
+Sunrise Mart,Vedant,5.743,1.922,5.6,2,5
+Bromley Food Store,Anushka,5.743,1.958,4.2,2,5
+Superstore Save-On-Foods,Vedant,5.743,3.238,2.9,3,4
+Superstore Save-On-Foods,Rahul,5.739,1.18,3.1,2,5
+Clover Grocery,Vedant,5.722,1.236,2.8,1,5
+Pepper’s Grocery,Janvi,5.717,2.805,4.7,5,4
+Market Real,Karthikey,5.712,3.093,3.6,5,1
+Bloor Street,Rahul,5.706,3.134,5.6,3,1
+Market Real,Janvi,5.702,2.041,6.4,2,3
+Superstore Save-On-Foods,Rahul,5.699,2.87,4.2,5,3
+The Grocery Outlet,Sambhavi,5.697,3.832,4.2,2,5
+Pepper’s Grocery,Anushka,5.692,2.385,2.4,2,3
+Bromley Food Store,Pauliene,5.692,3.157,2.0,1,2
+Superstore Save-On-Foods,Anushka,5.677,3.707,5.8,1,2
+Bromley Food Store,Vedant,5.672,3.842,5.6,3,4
+Clover Grocery,Anushka,5.662,3.115,3.6,5,3
+Bromley Food Store,Dipak,5.66,3.84,5.5,3,3
+The Grocery Outlet,Karthikey,5.652,1.312,4.2,2,5
+Bloor Street,Dipak,5.645,2.224,6.1,2,3
+Clover Grocery,Ananya,5.642,1.623,5.1,4,1
+Bloor Street,Ananya,5.642,3.268,5.5,4,2
+The Grocery Outlet,Sambhavi,5.632,2.372,6.2,2,1
+Sunrise Mart,Dipak,5.623,1.167,5.1,5,5
+Sunrise Mart,Yamraj,5.623,1.985,3.9,2,2
+Pepper’s Grocery,Dipak,5.613,3.038,3.6,4,5
+Market Real,Karthikey,5.606,1.308,1.7,1,5
+Superstore Save-On-Foods,Pauliene,5.597,3.826,6.5,3,4
+Pepper’s Grocery,Janvi,5.595,3.244,2.9,3,1
+Bromley Food Store,Janvi,5.591,1.345,6.3,3,4
+Superstore Save-On-Foods,Janvi,5.591,3.181,3.5,4,2
+Superstore Save-On-Foods,Janvi,5.588,1.542,7.0,4,5
+Sunrise Mart,Rakesh,5.584,3.191,2.5,1,3
+Sunrise Mart,Rakesh,5.576,2.292,1.2,4,1
+Sunrise Mart,Yamraj,5.571,1.408,1.9,5,4
+Pepper’s Grocery,Yamraj,5.57,2.002,4.9,4,3
+Market Real,Pauliene,5.569,3.567,5.2,5,4
+Superstore Save-On-Foods,Rakesh,5.568,2.244,1.4,1,1
+Pepper’s Grocery,Ananya,5.562,2.143,6.1,4,1
+Clover Grocery,Karthikey,5.557,3.025,2.6,4,5
+The Grocery Outlet,Ananya,5.553,1.491,1.7,1,2
+The Grocery Outlet,Dipak,5.551,3.241,3.2,1,2
+Pepper’s Grocery,Yamraj,5.538,2.815,1.9,4,5
+Pepper’s Grocery,Dipak,5.529,3.286,5.0,4,1
+Sunrise Mart,Ananya,5.528,1.633,6.3,4,5
+Clover Grocery,Ananya,5.528,1.132,6.8,3,1
+Pepper’s Grocery,Vedant,5.525,2.62,1.5,3,3
+Bloor Street,Vedant,5.519,2.457,1.5,1,2
+Sunrise Mart,Karthikey,5.515,1.696,5.1,2,3
+Market Real,Ananya,5.513,2.054,5.9,3,5
+Clover Grocery,Rakesh,5.512,3.316,2.7,2,4
+Bloor Street,Rakesh,5.499,2.249,4.4,5,2
+Bloor Street,Anushka,5.498,2.019,5.8,5,4
+Superstore Save-On-Foods,Pauliene,5.494,2.147,1.6,3,3
+Bromley Food Store,Yamraj,5.479,1.645,6.4,1,1
+Market Real,Dipak,5.478,1.175,3.5,3,4
+Superstore Save-On-Foods,Yamraj,5.477,2.23,3.0,2,4
+Market Real,Rakesh,5.477,1.657,6.9,3,5
+Sunrise Mart,Janvi,5.471,2.772,6.0,1,3
+Clover Grocery,Anushka,5.47,2.176,4.1,1,2
+Bloor Street,Anushka,5.462,1.279,4.6,3,4
+The Grocery Outlet,Janvi,5.456,1.621,5.4,1,4
+Pepper’s Grocery,Rahul,5.455,1.355,6.8,1,1
+Market Real,Ananya,5.449,3.776,5.0,2,3
+Pepper’s Grocery,Rakesh,5.447,1.699,1.9,5,5
+Bromley Food Store,Ananya,5.44,3.851,2.5,2,1
+Superstore Save-On-Foods,Janvi,5.438,1.915,1.8,3,5
+Sunrise Mart,Sambhavi,5.434,3.872,1.4,1,1
+Clover Grocery,Dipak,5.424,1.405,2.2,3,2
+Market Real,Vedant,5.421,3.848,1.4,5,1
+The Grocery Outlet,Sambhavi,5.421,3.017,4.5,4,3
+Bromley Food Store,Rahul,5.419,3.954,4.3,1,3
+Bromley Food Store,Sambhavi,5.417,3.882,6.3,5,5
+Superstore Save-On-Foods,Karthikey,5.41,1.516,3.1,5,2
+Clover Grocery,Sambhavi,5.393,2.253,6.8,5,3
+Bloor Street,Pauliene,5.391,2.355,2.8,5,1
+Market Real,Yamraj,5.381,2.338,4.5,5,4
+Superstore Save-On-Foods,Karthikey,5.378,1.092,6.6,2,4
+Superstore Save-On-Foods,Anushka,5.373,3.917,5.8,4,4
+Sunrise Mart,Vedant,5.373,3.46,3.0,1,4
+Market Real,Anushka,5.371,1.234,1.1,5,1
+Bromley Food Store,Janvi,5.365,3.458,3.2,4,5
+Market Real,Karthikey,5.356,1.42,2.4,4,2
+Superstore Save-On-Foods,Vedant,5.351,3.589,3.5,2,2
+Pepper’s Grocery,Anushka,5.329,2.146,5.5,1,2
+Clover Grocery,Sambhavi,5.326,3.898,5.0,2,5
+Superstore Save-On-Foods,Karthikey,5.323,2.579,4.3,2,4
+Bloor Street,Ananya,5.323,2.229,4.4,2,5
+Pepper’s Grocery,Pauliene,5.314,2.187,6.8,4,4
+Clover Grocery,Sambhavi,5.308,2.989,4.8,3,5
+Superstore Save-On-Foods,Rakesh,5.306,2.768,1.2,2,1
+Bromley Food Store,Sambhavi,5.288,1.809,5.9,4,3
+Sunrise Mart,Pauliene,5.285,3.234,4.0,1,4
+Sunrise Mart,Rakesh,5.257,3.019,6.3,4,5
+Market Real,Rakesh,5.255,2.508,6.2,2,5
+Sunrise Mart,Dipak,5.236,1.389,1.7,5,5
+Sunrise Mart,Rakesh,5.235,2.297,4.1,5,2
+Sunrise Mart,Rakesh,5.232,2.024,4.6,2,1
+Market Real,Janvi,5.225,2.198,2.4,2,3
+Market Real,Sambhavi,5.222,1.932,2.9,3,1
+Clover Grocery,Sambhavi,5.209,2.622,3.9,4,4
+Clover Grocery,Vedant,5.203,3.578,1.4,2,4
+Superstore Save-On-Foods,Janvi,5.2,1.015,4.2,3,5
+Superstore Save-On-Foods,Pauliene,5.192,1.8,2.7,2,3
+Bromley Food Store,Anushka,5.186,2.367,1.5,5,4
+Superstore Save-On-Foods,Ananya,5.185,1.785,1.6,1,4
+Bloor Street,Dipak,5.177,2.734,6.1,3,1
+Clover Grocery,Sambhavi,5.173,1.013,4.0,2,5
+Market Real,Janvi,5.169,2.74,4.8,5,2
+Market Real,Pauliene,5.166,3.285,4.8,2,4
+Superstore Save-On-Foods,Dipak,5.165,2.927,1.5,2,2
+Bromley Food Store,Anushka,5.162,1.613,6.5,4,1
+Bromley Food Store,Yamraj,5.161,3.041,4.2,2,3
+Bloor Street,Anushka,5.152,2.102,4.1,1,4
+Market Real,Yamraj,5.143,1.654,6.7,1,1
+Sunrise Mart,Rahul,5.141,2.568,6.9,5,1
+Bromley Food Store,Rahul,5.125,3.148,6.7,5,3
+Sunrise Mart,Karthikey,5.112,1.703,6.1,1,4
+Sunrise Mart,Dipak,5.111,3.912,6.5,3,2
+Market Real,Vedant,5.108,1.467,6.2,4,5
+Bromley Food Store,Rahul,5.108,2.554,4.1,4,1
+Sunrise Mart,Yamraj,5.104,1.066,3.1,5,3
+Clover Grocery,Rakesh,5.09,3.097,6.8,3,3
+Superstore Save-On-Foods,Vedant,5.089,2.543,7.0,4,5
+Bromley Food Store,Dipak,5.088,1.621,1.3,2,1
+Sunrise Mart,Vedant,5.072,1.156,3.7,4,4
+Superstore Save-On-Foods,Sambhavi,5.047,1.383,5.2,2,4
+Clover Grocery,Anushka,5.043,3.255,1.6,2,4
+The Grocery Outlet,Anushka,5.038,2.174,2.3,3,5
+The Grocery Outlet,Ananya,5.03,2.868,5.8,5,1
+Sunrise Mart,Ananya,5.023,3.212,3.1,2,3
+Superstore Save-On-Foods,Rakesh,4.98,1.042,1.2,1,2
+Bromley Food Store,Vedant,4.971,3.354,2.6,1,3
+Bromley Food Store,Karthikey,4.964,2.725,2.8,2,3
+Pepper’s Grocery,Rahul,4.963,1.998,1.4,1,5
+Bromley Food Store,Karthikey,4.958,2.797,4.8,1,2
+Pepper’s Grocery,Dipak,4.958,3.723,2.6,4,4
+Bromley Food Store,Ananya,4.956,3.824,2.4,1,4
+Bromley Food Store,Yamraj,4.953,2.451,3.9,3,2
+Bloor Street,Yamraj,4.949,1.611,5.1,2,1
+The Grocery Outlet,Rakesh,4.932,1.077,1.8,2,2
+Pepper’s Grocery,Anushka,4.922,1.28,4.2,5,5
+Bromley Food Store,Pauliene,4.922,1.042,6.9,2,2
+The Grocery Outlet,Yamraj,4.893,1.233,1.4,4,5
+Clover Grocery,Ananya,4.884,1.546,1.1,1,1
+Pepper’s Grocery,Vedant,4.875,1.908,3.6,2,2
+Superstore Save-On-Foods,Rakesh,4.873,2.025,2.6,2,4
+Clover Grocery,Anushka,4.86,1.007,6.6,4,4
+Bloor Street,Anushka,4.858,1.623,2.9,5,2
+Clover Grocery,Rahul,4.852,2.235,4.9,5,5
+Pepper’s Grocery,Pauliene,4.852,1.398,1.9,3,1
+The Grocery Outlet,Yamraj,4.85,2.858,3.3,3,4
+Bromley Food Store,Janvi,4.831,3.469,6.2,3,4
+Sunrise Mart,Sambhavi,4.814,1.393,2.7,4,3
+Superstore Save-On-Foods,Rahul,4.813,3.326,5.8,4,4
+Pepper’s Grocery,Sambhavi,4.813,2.022,1.4,5,3
+Bromley Food Store,Yamraj,4.81,1.812,5.6,3,1
+Sunrise Mart,Janvi,4.807,1.809,3.0,1,5
+Clover Grocery,Sambhavi,4.79,2.487,4.3,4,3
+Superstore Save-On-Foods,Karthikey,4.785,3.718,3.4,3,4
+Bloor Street,Anushka,4.782,3.54,3.1,2,5
+Clover Grocery,Pauliene,4.781,3.27,1.3,4,5
+Clover Grocery,Ananya,4.78,2.559,2.0,3,4
+The Grocery Outlet,Yamraj,4.772,1.303,2.1,1,3
+Superstore Save-On-Foods,Sambhavi,4.754,3.13,3.0,3,2
+Sunrise Mart,Pauliene,4.749,3.864,5.7,4,2
+The Grocery Outlet,Dipak,4.729,2.316,5.7,5,2
+Clover Grocery,Pauliene,4.71,3.218,5.1,4,5
+The Grocery Outlet,Anushka,4.709,1.172,4.1,3,4
+Market Real,Dipak,4.708,3.861,6.4,3,1
+Sunrise Mart,Sambhavi,4.7,1.417,5.5,2,1
+The Grocery Outlet,Vedant,4.69,1.238,3.4,4,2
+Bromley Food Store,Rahul,4.682,3.275,5.6,3,1
+Bromley Food Store,Ananya,4.677,1.392,3.7,4,4
+The Grocery Outlet,Janvi,4.665,3.367,1.7,1,2
+Market Real,Rakesh,4.658,2.642,2.4,3,5
+Superstore Save-On-Foods,Yamraj,4.656,1.652,5.1,2,1
+Superstore Save-On-Foods,Janvi,4.65,3.653,2.2,3,5
+Market Real,Ananya,4.63,2.939,5.1,3,4
+Bromley Food Store,Vedant,4.628,1.813,4.0,5,4
+The Grocery Outlet,Karthikey,4.61,3.249,6.2,1,4
+Sunrise Mart,Anushka,4.61,2.548,2.8,4,4
+Bromley Food Store,Vedant,4.607,3.152,3.3,3,3
+Market Real,Yamraj,4.603,2.462,4.6,5,1
+Superstore Save-On-Foods,Anushka,4.593,1.41,1.3,1,3
+Pepper’s Grocery,Rakesh,4.592,1.445,1.3,2,3
+Superstore Save-On-Foods,Pauliene,4.588,2.186,2.7,5,3
+Bromley Food Store,Pauliene,4.576,3.512,5.0,1,3
+Clover Grocery,Pauliene,4.566,3.762,1.8,3,2
+Pepper’s Grocery,Anushka,4.563,3.368,7.0,5,4
+Pepper’s Grocery,Vedant,4.558,2.048,1.8,3,2
+Superstore Save-On-Foods,Pauliene,4.557,2.211,6.1,1,5
+Pepper’s Grocery,Rahul,4.551,2.877,1.7,5,5
+Sunrise Mart,Vedant,4.548,3.321,3.1,2,5
+Sunrise Mart,Vedant,4.529,1.115,6.2,5,2
+Sunrise Mart,Yamraj,4.526,3.664,1.2,2,1
+Sunrise Mart,Anushka,4.524,2.683,5.2,3,1
+Bloor Street,Pauliene,4.524,2.639,6.5,3,3
+The Grocery Outlet,Vedant,4.521,2.971,5.2,4,5
+Sunrise Mart,Dipak,4.512,1.966,4.8,3,1
+Bloor Street,Yamraj,4.511,3.336,2.6,3,2
+Bromley Food Store,Janvi,4.503,1.804,2.3,5,2
+Market Real,Anushka,4.491,3.865,6.9,2,5
+The Grocery Outlet,Ananya,4.488,1.632,2.3,1,2
+Pepper’s Grocery,Yamraj,4.488,1.807,5.5,4,3
+The Grocery Outlet,Rakesh,4.485,3.45,5.3,2,2
+Market Real,Dipak,4.458,1.963,1.6,2,3
+Bromley Food Store,Anushka,4.456,1.966,6.2,3,3
+Bloor Street,Anushka,4.439,1.168,6.7,4,1
+Pepper’s Grocery,Yamraj,4.428,3.884,1.7,5,2
+Pepper’s Grocery,Vedant,4.426,2.114,3.5,4,4
+Superstore Save-On-Foods,Sambhavi,4.422,3.584,3.7,4,3
+The Grocery Outlet,Pauliene,4.42,1.591,3.0,3,2
+Market Real,Dipak,4.411,3.985,3.6,4,2
+Bromley Food Store,Rahul,4.41,2.874,6.0,3,1
+The Grocery Outlet,Dipak,4.409,1.094,6.8,1,3
+Market Real,Ananya,4.407,3.984,4.0,5,2
+Sunrise Mart,Janvi,4.397,1.389,2.9,5,5
+Superstore Save-On-Foods,Rakesh,4.392,2.09,3.5,3,3
+Pepper’s Grocery,Vedant,4.371,2.548,5.6,4,2
+Bloor Street,Rakesh,4.355,3.974,4.7,3,2
+Bromley Food Store,Yamraj,4.328,2.651,5.6,2,1
+The Grocery Outlet,Janvi,4.327,1.692,6.4,3,1
+Superstore Save-On-Foods,Pauliene,4.314,3.862,4.0,4,4
+Superstore Save-On-Foods,Dipak,4.312,2.826,3.3,2,5
+Bromley Food Store,Rakesh,4.312,1.792,6.4,1,1
+Clover Grocery,Pauliene,4.304,1.027,1.6,3,5
+Clover Grocery,Pauliene,4.285,2.715,7.0,3,1
+Bloor Street,Yamraj,4.272,3.294,6.8,3,5
+Bromley Food Store,Anushka,4.268,2.108,4.7,1,5
+Pepper’s Grocery,Anushka,4.262,2.548,6.4,4,1
+Pepper’s Grocery,Rakesh,4.252,2.991,2.4,3,3
+Clover Grocery,Rakesh,4.248,1.387,5.4,1,3
+Superstore Save-On-Foods,Vedant,4.24,2.23,2.3,1,5
+Bromley Food Store,Ananya,4.23,1.627,6.6,4,1
+Clover Grocery,Pauliene,4.227,3.95,6.6,5,5
+Sunrise Mart,Anushka,4.227,3.976,6.3,3,5
+Bromley Food Store,Janvi,4.225,2.934,4.3,1,5
+Sunrise Mart,Dipak,4.214,2.479,2.6,2,1
+Bromley Food Store,Pauliene,4.211,3.619,1.9,4,1
+Market Real,Rakesh,4.202,1.969,4.6,2,5
+Clover Grocery,Pauliene,4.199,2.615,2.8,4,2
+Superstore Save-On-Foods,Yamraj,4.196,2.354,3.6,2,3
+Bromley Food Store,Rakesh,4.19,3.037,4.4,5,1
+Bloor Street,Janvi,4.168,3.094,2.9,1,5
+Market Real,Dipak,4.163,2.226,2.2,3,2
+Superstore Save-On-Foods,Ananya,4.16,1.91,4.0,3,2
+Sunrise Mart,Sambhavi,4.158,3.102,1.3,2,5
+Superstore Save-On-Foods,Pauliene,4.157,1.694,2.4,4,4
+Market Real,Janvi,4.151,1.338,6.6,5,3
+Sunrise Mart,Vedant,4.145,3.08,2.0,1,2
+Clover Grocery,Yamraj,4.141,2.657,4.1,1,4
+Pepper’s Grocery,Dipak,4.132,1.995,1.3,4,4
+The Grocery Outlet,Vedant,4.13,3.088,3.5,3,2
+The Grocery Outlet,Yamraj,4.13,2.646,3.6,5,1
+Bloor Street,Pauliene,4.117,2.374,6.4,2,3
+The Grocery Outlet,Dipak,4.113,1.716,2.9,1,5
+Bromley Food Store,Yamraj,4.111,1.119,6.2,5,1
+Pepper’s Grocery,Rahul,4.091,1.075,5.6,2,2
+The Grocery Outlet,Anushka,4.091,1.245,6.9,3,2
+Pepper’s Grocery,Yamraj,4.091,1.373,1.1,2,5
+The Grocery Outlet,Anushka,4.084,2.447,1.7,3,1
+Market Real,Rahul,4.081,2.437,2.3,3,4
+Superstore Save-On-Foods,Pauliene,4.074,2.744,1.1,2,4
+The Grocery Outlet,Sambhavi,4.065,3.109,6.2,1,1
+Pepper’s Grocery,Rakesh,4.063,3.061,3.5,3,4
+Clover Grocery,Vedant,4.062,2.807,3.4,5,1
+Superstore Save-On-Foods,Yamraj,4.061,3.946,6.8,5,4
+Pepper’s Grocery,Rakesh,4.059,1.701,3.8,5,2
+Bromley Food Store,Sambhavi,4.054,3.244,3.8,3,2
+Pepper’s Grocery,Sambhavi,4.051,2.686,5.4,4,3
+Sunrise Mart,Sambhavi,4.049,2.924,1.3,4,2
+Sunrise Mart,Janvi,4.025,2.051,2.2,5,4
+Bromley Food Store,Yamraj,4.016,2.954,1.2,5,5
+Pepper’s Grocery,Anushka,4.007,2.797,5.8,2,5
+Market Real,Janvi,4.003,2.773,2.9,1,2
+Clover Grocery,Karthikey,3.998,2.293,3.3,3,4
+Bromley Food Store,Dipak,3.998,3.305,5.3,3,3
+Market Real,Ananya,3.995,2.425,5.0,1,2
+The Grocery Outlet,Janvi,3.991,1.518,1.7,4,3
+Clover Grocery,Rahul,3.989,3.107,5.3,1,3
+Pepper’s Grocery,Rakesh,3.981,3.308,6.2,5,1
+Sunrise Mart,Anushka,3.98,3.024,1.4,1,5
+The Grocery Outlet,Janvi,3.979,3.648,6.1,2,1
+Superstore Save-On-Foods,Anushka,3.978,1.101,6.3,2,2
+Market Real,Rahul,3.972,3.87,2.5,1,5
+Bromley Food Store,Rakesh,3.971,1.45,6.6,4,1
+The Grocery Outlet,Vedant,3.97,3.683,2.3,5,3
+Bloor Street,Rakesh,3.962,2.463,6.6,4,3
+Clover Grocery,Rakesh,3.961,2.972,4.4,4,4
+Pepper’s Grocery,Janvi,3.955,2.976,5.7,4,1
+Market Real,Sambhavi,3.939,3.643,4.3,5,5
+Bromley Food Store,Rahul,3.939,3.272,4.3,2,1
+Bloor Street,Rahul,3.933,2.901,3.0,3,4
+Bloor Street,Vedant,3.926,3.751,5.9,5,5
+Market Real,Vedant,3.925,1.243,6.9,1,3
+Superstore Save-On-Foods,Ananya,3.915,1.077,3.1,5,2
+Bromley Food Store,Rakesh,3.915,2.117,5.3,1,3
+Market Real,Yamraj,3.914,3.171,5.8,4,5
+Sunrise Mart,Pauliene,3.914,2.292,6.9,1,2
+Superstore Save-On-Foods,Anushka,3.912,3.366,5.6,5,1
+Clover Grocery,Pauliene,3.906,1.734,4.5,5,1
+Sunrise Mart,Sambhavi,3.889,3.514,6.0,4,2
+The Grocery Outlet,Sambhavi,3.874,1.236,4.3,4,5
+Market Real,Sambhavi,3.871,2.007,2.8,5,1
+Market Real,Dipak,3.869,3.647,6.7,4,3
+Market Real,Sambhavi,3.854,3.999,3.8,5,5
+Pepper’s Grocery,Karthikey,3.847,1.033,2.3,2,4
+The Grocery Outlet,Janvi,3.84,1.412,5.2,1,4
+Pepper’s Grocery,Pauliene,3.837,2.696,6.5,1,3
+Superstore Save-On-Foods,Pauliene,3.834,3.38,6.3,2,2
+Pepper’s Grocery,Vedant,3.833,2.33,4.0,4,2
+Superstore Save-On-Foods,Ananya,3.828,1.851,2.8,1,1
+Market Real,Rahul,3.828,1.151,6.7,5,4
+Clover Grocery,Vedant,3.817,3.49,5.9,2,5
+Sunrise Mart,Vedant,3.811,3.253,5.4,4,1
+Clover Grocery,Rahul,3.804,1.156,1.1,3,2
+Bromley Food Store,Vedant,3.803,3.116,2.6,3,1
+Bromley Food Store,Yamraj,3.802,1.14,3.4,1,2
+Clover Grocery,Sambhavi,3.795,2.49,1.7,5,2
+Clover Grocery,Anushka,3.787,3.793,1.3,3,4
+Bromley Food Store,Sambhavi,3.785,3.748,3.0,1,1
+Market Real,Vedant,3.783,1.027,3.4,2,2
+The Grocery Outlet,Karthikey,3.776,3.723,4.6,3,5
+Market Real,Dipak,3.773,3.589,5.1,1,5
+The Grocery Outlet,Ananya,3.771,2.38,6.6,3,3
+Pepper’s Grocery,Dipak,3.76,2.686,1.7,3,4
+Bloor Street,Janvi,3.756,1.47,3.4,1,4
+The Grocery Outlet,Janvi,3.749,3.849,1.6,4,1
+Bromley Food Store,Janvi,3.747,2.722,5.3,3,3
+Pepper’s Grocery,Dipak,3.744,1.194,1.9,1,3
+Bromley Food Store,Rahul,3.742,3.233,1.4,2,2
+Pepper’s Grocery,Anushka,3.739,2.135,6.1,5,3
+Market Real,Anushka,3.719,3.722,3.7,4,3
+Sunrise Mart,Rahul,3.719,1.795,1.2,4,2
+Bloor Street,Janvi,3.715,1.075,1.4,2,5
+Bromley Food Store,Ananya,3.713,1.071,3.7,1,1
+Clover Grocery,Anushka,3.708,1.625,5.0,2,1
+Bromley Food Store,Karthikey,3.707,2.275,3.3,5,3
+Clover Grocery,Rakesh,3.703,1.71,1.8,2,5
+Market Real,Janvi,3.701,1.524,4.3,2,4
+Bloor Street,Anushka,3.7,2.118,4.3,3,3
+Bloor Street,Anushka,3.695,1.737,2.2,3,5
+Bloor Street,Pauliene,3.692,2.891,3.4,3,4
+Superstore Save-On-Foods,Vedant,3.69,2.168,2.9,5,3
+The Grocery Outlet,Rakesh,3.677,2.503,3.4,5,2
+Bloor Street,Rahul,3.652,3.925,3.4,5,5
+Clover Grocery,Vedant,3.625,2.814,3.0,1,2
+The Grocery Outlet,Sambhavi,3.622,2.321,6.2,3,3
+Superstore Save-On-Foods,Yamraj,3.621,3.9,2.5,2,3
+The Grocery Outlet,Ananya,3.619,2.243,1.2,4,3
+The Grocery Outlet,Dipak,3.612,1.512,1.2,4,1
+The Grocery Outlet,Rakesh,3.606,1.453,4.5,2,2
+The Grocery Outlet,Rahul,3.598,1.94,2.5,2,2
+Market Real,Anushka,3.593,2.645,5.5,5,5
+Sunrise Mart,Rahul,3.581,3.326,1.3,4,4
+Market Real,Rahul,3.58,2.388,3.9,1,2
+Bloor Street,Karthikey,3.576,3.73,2.7,1,1
+Sunrise Mart,Yamraj,3.574,1.386,1.7,5,1
+Bloor Street,Pauliene,3.572,1.76,3.8,1,1
+Superstore Save-On-Foods,Rahul,3.566,3.146,6.1,4,4
+Bloor Street,Rakesh,3.562,3.11,3.4,4,4
+Market Real,Janvi,3.554,1.076,3.0,1,4
+Clover Grocery,Anushka,3.544,3.017,3.1,3,2
+Pepper’s Grocery,Karthikey,3.542,1.266,5.2,1,2
+Superstore Save-On-Foods,Pauliene,3.523,3.866,6.2,5,4
+Bromley Food Store,Anushka,3.51,2.134,5.1,1,3
+Sunrise Mart,Ananya,3.507,2.679,3.9,4,3
+Bloor Street,Dipak,3.491,2.022,6.5,3,4
+Market Real,Vedant,3.477,3.055,6.5,4,2
+Clover Grocery,Ananya,3.464,3.271,6.6,2,1
+Pepper’s Grocery,Rakesh,3.458,2.38,2.0,3,2
+Bromley Food Store,Pauliene,3.457,2.708,6.9,3,2
+Bromley Food Store,Rakesh,3.444,1.125,4.4,2,4
+Sunrise Mart,Sambhavi,3.443,3.938,2.4,1,1
+Bloor Street,Anushka,3.438,2.102,1.2,4,2
+Bromley Food Store,Dipak,3.424,2.574,5.7,3,5
+Clover Grocery,Pauliene,3.423,3.423,1.8,5,3
+Superstore Save-On-Foods,Rahul,3.42,3.32,3.7,2,4
+Clover Grocery,Janvi,3.419,2.941,6.0,4,2
+Market Real,Sambhavi,3.412,3.287,1.6,5,4
+Bromley Food Store,Janvi,3.41,3.762,6.0,5,2
+Sunrise Mart,Dipak,3.407,1.538,1.4,5,4
+Bloor Street,Ananya,3.388,3.498,5.8,5,1
+Superstore Save-On-Foods,Rahul,3.386,3.264,6.1,3,4
+Superstore Save-On-Foods,Anushka,3.385,1.041,1.6,4,1
+Superstore Save-On-Foods,Sambhavi,3.385,1.99,1.1,3,2
+Clover Grocery,Pauliene,3.384,1.614,4.0,5,4
+Bloor Street,Janvi,3.378,1.339,2.7,1,4
+Pepper’s Grocery,Sambhavi,3.366,3.976,6.9,1,2
+Superstore Save-On-Foods,Sambhavi,3.361,2.816,2.5,1,2
+Sunrise Mart,Janvi,3.359,3.893,3.4,4,3
+Superstore Save-On-Foods,Pauliene,3.353,2.845,4.4,5,4
+Pepper’s Grocery,Yamraj,3.345,2.783,2.0,1,2
+Superstore Save-On-Foods,Yamraj,3.337,2.739,2.4,1,2
+Clover Grocery,Pauliene,3.335,2.611,2.0,3,5
+Bloor Street,Ananya,3.328,1.559,3.0,5,2
+Sunrise Mart,Sambhavi,3.327,3.153,2.3,3,5
+The Grocery Outlet,Vedant,3.323,2.704,6.5,5,1
+Sunrise Mart,Yamraj,3.322,2.952,5.9,4,2
+Pepper’s Grocery,Anushka,3.3,1.665,3.6,3,3
+Superstore Save-On-Foods,Anushka,3.298,1.043,1.2,2,4
+Bloor Street,Rakesh,3.287,2.408,5.6,3,3
+Market Real,Anushka,3.281,3.92,3.6,5,1
+Clover Grocery,Sambhavi,3.267,2.512,4.3,1,1
+Bloor Street,Ananya,3.267,3.069,1.6,4,3
+Superstore Save-On-Foods,Dipak,3.266,1.338,2.5,4,5
+Bloor Street,Sambhavi,3.247,1.785,5.6,3,2
+Bromley Food Store,Rakesh,3.244,3.812,2.3,5,2
+Bloor Street,Rakesh,3.24,3.775,5.3,1,5
+Bromley Food Store,Rahul,3.22,1.763,6.1,4,2
+Sunrise Mart,Anushka,3.21,3.232,4.9,4,3
+Market Real,Rakesh,3.209,1.923,1.1,5,5
+Clover Grocery,Ananya,3.206,2.684,1.7,5,3
+The Grocery Outlet,Rakesh,3.206,3.589,5.2,2,2
+Market Real,Rahul,3.192,1.965,6.2,2,1
+Pepper’s Grocery,Vedant,3.188,2.049,1.4,3,3
+The Grocery Outlet,Vedant,3.187,1.269,1.6,1,5
+The Grocery Outlet,Rahul,3.185,2.895,3.7,5,1
+Bloor Street,Vedant,3.176,1.918,4.1,5,4
+Bloor Street,Rakesh,3.175,2.472,2.0,4,3
+Superstore Save-On-Foods,Janvi,3.172,3.304,4.1,1,3
+Market Real,Dipak,3.161,2.66,5.4,4,1
+Pepper’s Grocery,Yamraj,3.154,3.016,3.8,2,2
+Market Real,Rahul,3.153,1.592,3.7,3,5
+Market Real,Rahul,3.15,3.178,1.9,3,1
+Bromley Food Store,Ananya,3.144,2.277,6.9,5,1
+Bromley Food Store,Anushka,3.143,2.235,1.4,3,4
+Pepper’s Grocery,Karthikey,3.143,2.888,2.0,5,3
+Superstore Save-On-Foods,Yamraj,3.136,3.772,4.5,2,5
+Bloor Street,Pauliene,3.135,3.712,1.8,1,2
+Superstore Save-On-Foods,Dipak,3.125,3.596,2.3,2,3
+Bromley Food Store,Karthikey,3.119,3.707,1.5,5,4
+Bromley Food Store,Sambhavi,3.11,2.901,6.8,5,5
+Bromley Food Store,Rakesh,3.109,3.836,2.3,3,2
+Bromley Food Store,Vedant,3.105,1.669,2.1,2,3
+Bloor Street,Dipak,3.098,3.775,2.4,4,3
+Market Real,Anushka,3.092,2.046,5.8,5,1
+Clover Grocery,Anushka,3.072,1.786,6.0,3,1
+Clover Grocery,Rahul,3.059,3.129,3.8,4,5
+Pepper’s Grocery,Rakesh,3.046,3.636,4.5,5,2
+Pepper’s Grocery,Rahul,3.038,2.2,3.7,4,5
+Clover Grocery,Rakesh,3.026,2.052,5.0,4,4
+Clover Grocery,Sambhavi,3.018,1.129,2.4,4,3
+The Grocery Outlet,Vedant,3.017,3.427,6.0,4,2
+Clover Grocery,Rahul,3.01,1.15,5.0,2,4
+Pepper’s Grocery,Rahul,3.006,1.55,2.4,2,4
+Bloor Street,Karthikey,3.001,2.8,2.7,4,2
+Superstore Save-On-Foods,Rakesh,3.0,3.493,5.6,5,1
+Market Real,Rakesh,2.997,1.472,5.0,4,4
+Sunrise Mart,Ananya,2.992,2.002,5.1,1,5
+Superstore Save-On-Foods,Yamraj,2.987,3.709,1.8,5,4
+Pepper’s Grocery,Dipak,2.983,2.999,6.6,3,2
+Superstore Save-On-Foods,Rahul,2.982,2.285,2.4,2,4
+Market Real,Ananya,2.981,3.189,2.6,5,2
+Bromley Food Store,Rahul,2.979,1.485,2.5,3,3
+Market Real,Janvi,2.978,1.148,3.9,1,1
+Market Real,Rakesh,2.975,2.974,1.1,3,3
+Pepper’s Grocery,Janvi,2.975,3.073,6.7,1,5
+Bloor Street,Karthikey,2.969,1.616,3.2,3,4
+Bromley Food Store,Karthikey,2.967,1.381,3.3,3,2
+Superstore Save-On-Foods,Karthikey,2.967,1.455,2.6,1,4
+The Grocery Outlet,Janvi,2.966,3.873,1.8,3,1
+Bloor Street,Karthikey,2.963,2.72,3.8,4,4
+Market Real,Anushka,2.952,3.049,5.1,4,5
+Market Real,Sambhavi,2.951,3.676,3.3,2,3
+Superstore Save-On-Foods,Dipak,2.947,3.06,4.4,3,4
+Bromley Food Store,Rahul,2.939,1.102,5.6,5,3
+Bromley Food Store,Karthikey,2.938,2.269,5.3,2,2
+Market Real,Pauliene,2.929,1.938,1.6,4,2
+Market Real,Anushka,2.92,1.201,1.2,2,2
+Sunrise Mart,Janvi,2.913,2.601,1.4,3,4
+Sunrise Mart,Vedant,2.91,3.374,6.2,2,2
+Market Real,Ananya,2.904,3.265,6.4,3,4
+The Grocery Outlet,Dipak,2.898,3.129,3.7,4,5
+Clover Grocery,Anushka,2.888,1.981,5.7,1,2
+The Grocery Outlet,Anushka,2.872,1.216,5.0,2,5
+Market Real,Karthikey,2.83,1.678,3.8,3,1
+Pepper’s Grocery,Rakesh,2.822,3.439,6.5,1,1
+The Grocery Outlet,Rahul,2.821,2.051,1.9,1,2
+Bloor Street,Karthikey,2.809,1.077,5.4,5,5
+Sunrise Mart,Pauliene,2.807,2.935,5.8,4,2
+The Grocery Outlet,Rahul,2.799,1.498,2.2,2,2
+Market Real,Yamraj,2.776,2.386,3.9,2,1
+Market Real,Anushka,2.773,1.712,6.5,1,4
+Market Real,Sambhavi,2.763,3.299,6.7,5,3
+Clover Grocery,Rahul,2.761,3.45,4.2,5,3
+Market Real,Yamraj,2.758,1.451,3.1,4,1
+Clover Grocery,Dipak,2.752,2.958,4.2,4,4
+Pepper’s Grocery,Sambhavi,2.741,3.172,2.2,3,4
+Clover Grocery,Pauliene,2.735,3.547,3.9,4,4
+Sunrise Mart,Sambhavi,2.732,2.558,5.0,5,1
+Bromley Food Store,Ananya,2.725,1.102,5.4,3,5
+The Grocery Outlet,Anushka,2.723,1.567,3.3,1,5
+Bromley Food Store,Yamraj,2.716,3.172,4.7,2,3
+Bloor Street,Yamraj,2.71,2.657,3.7,1,5
+Pepper’s Grocery,Karthikey,2.707,3.173,1.4,1,3
+Bromley Food Store,Pauliene,2.706,2.89,1.1,3,3
+Bloor Street,Yamraj,2.706,3.36,1.8,1,1
+Bloor Street,Dipak,2.705,1.051,4.7,5,4
+Superstore Save-On-Foods,Vedant,2.699,3.413,1.6,3,2
+Superstore Save-On-Foods,Janvi,2.685,3.398,4.3,1,4
+Market Real,Rakesh,2.673,2.123,4.1,5,2
+Bloor Street,Dipak,2.667,3.052,4.3,1,4
+Market Real,Sambhavi,2.664,1.727,2.1,4,4
+Clover Grocery,Yamraj,2.66,3.021,4.0,5,1
+Sunrise Mart,Vedant,2.658,1.513,1.0,1,1
+Bromley Food Store,Ananya,2.652,1.136,4.9,5,4
+Superstore Save-On-Foods,Dipak,2.639,3.944,2.9,2,5
+Sunrise Mart,Vedant,2.637,3.716,5.5,2,4
+Sunrise Mart,Rakesh,2.635,3.845,3.3,1,4
+Clover Grocery,Vedant,2.632,2.573,2.5,4,5
+Superstore Save-On-Foods,Dipak,2.614,2.678,6.0,5,3
+Market Real,Vedant,2.61,3.388,3.7,5,4
+Sunrise Mart,Anushka,2.609,1.235,4.6,2,1
+Superstore Save-On-Foods,Rahul,2.599,3.853,4.8,3,5
+Market Real,Rakesh,2.599,3.383,3.7,2,4
+Superstore Save-On-Foods,Sambhavi,2.595,2.137,4.2,4,4
+Superstore Save-On-Foods,Sambhavi,2.592,3.901,3.8,2,5
+Bromley Food Store,Janvi,2.59,1.181,6.4,1,5
+Market Real,Janvi,2.589,1.925,1.9,4,3
+Bloor Street,Pauliene,2.582,2.78,2.1,1,3
+The Grocery Outlet,Janvi,2.581,3.943,5.8,1,5
+Market Real,Pauliene,2.576,2.61,2.9,5,3
+Sunrise Mart,Rahul,2.566,3.03,1.8,2,5
+Market Real,Rahul,2.563,2.26,1.6,5,4
+Pepper’s Grocery,Ananya,2.557,1.836,4.8,1,4
+Clover Grocery,Karthikey,2.554,2.959,6.4,5,1
+Clover Grocery,Rakesh,2.543,1.372,2.2,3,3
+Clover Grocery,Rakesh,2.542,1.768,1.2,4,4
+Bloor Street,Karthikey,2.541,3.194,2.3,5,5
+The Grocery Outlet,Anushka,2.539,3.285,4.8,1,5
+Market Real,Anushka,2.538,3.147,5.9,3,5
+Bloor Street,Anushka,2.529,3.445,2.8,1,3
+Superstore Save-On-Foods,Karthikey,2.525,3.571,4.3,1,1
+Superstore Save-On-Foods,Pauliene,2.521,2.659,1.2,2,4
+Sunrise Mart,Rakesh,2.518,3.107,5.7,2,1
+Superstore Save-On-Foods,Pauliene,2.514,3.499,6.1,5,5
+Sunrise Mart,Janvi,2.501,3.746,5.1,3,1
+Market Real,Janvi,2.498,3.421,7.0,3,3
+Market Real,Ananya,2.493,2.614,7.0,3,1
+Clover Grocery,Janvi,2.492,1.038,5.3,1,2
+Bromley Food Store,Karthikey,2.491,1.635,5.7,5,3
+The Grocery Outlet,Anushka,2.491,1.381,1.6,1,4
+Market Real,Ananya,2.491,2.344,4.6,5,3
+Pepper’s Grocery,Yamraj,2.489,3.144,1.6,5,3
+The Grocery Outlet,Vedant,2.464,2.093,3.3,1,4
+The Grocery Outlet,Karthikey,2.45,1.934,4.7,4,5
+The Grocery Outlet,Rahul,2.445,2.168,6.9,2,3
+The Grocery Outlet,Pauliene,2.444,1.062,3.4,4,5
+Pepper’s Grocery,Rakesh,2.443,1.372,2.3,2,1
+Bloor Street,Yamraj,2.443,1.64,2.3,3,4
+Superstore Save-On-Foods,Ananya,2.437,3.801,1.4,2,1
+Superstore Save-On-Foods,Anushka,2.434,2.374,7.0,5,3
+Clover Grocery,Rahul,2.433,1.699,5.3,3,3
+Pepper’s Grocery,Janvi,2.422,3.736,6.0,5,1
+Bloor Street,Rakesh,2.419,2.14,3.3,1,1
+Bromley Food Store,Rahul,2.418,2.061,5.9,1,5
+Market Real,Pauliene,2.41,2.426,2.3,5,3
+The Grocery Outlet,Janvi,2.41,1.178,3.0,5,5
+Sunrise Mart,Rahul,2.406,3.133,4.2,3,5
+Bloor Street,Vedant,2.402,1.256,2.9,5,2
+Superstore Save-On-Foods,Pauliene,2.4,2.509,2.7,3,4
+Sunrise Mart,Vedant,2.399,3.199,5.2,4,5
+The Grocery Outlet,Yamraj,2.398,1.298,2.6,1,5
+Market Real,Anushka,2.394,2.839,1.2,5,5
+Bloor Street,Karthikey,2.388,1.913,4.8,5,4
+The Grocery Outlet,Rahul,2.386,1.914,1.8,3,2
+Bloor Street,Karthikey,2.383,2.057,6.0,4,1
+Bromley Food Store,Anushka,2.359,3.905,1.9,1,1
+Bloor Street,Ananya,2.358,1.039,2.8,3,3
+Clover Grocery,Rakesh,2.346,1.42,3.0,4,3
+Pepper’s Grocery,Anushka,2.34,1.513,1.9,4,1
+Bloor Street,Karthikey,2.337,2.508,3.9,2,5
+Clover Grocery,Dipak,2.327,1.104,3.8,4,2
+The Grocery Outlet,Rahul,2.323,3.681,4.7,5,1
+Bromley Food Store,Pauliene,2.32,1.13,3.4,4,3
+Superstore Save-On-Foods,Karthikey,2.308,2.936,6.3,5,4
+Clover Grocery,Anushka,2.3,2.769,5.1,3,1
+Market Real,Ananya,2.297,3.177,6.4,2,3
+Clover Grocery,Ananya,2.283,1.325,4.8,1,3
+The Grocery Outlet,Pauliene,2.273,1.146,1.7,5,5
+Bloor Street,Anushka,2.265,3.317,4.3,3,1
+Clover Grocery,Sambhavi,2.256,3.359,5.5,1,1
+Sunrise Mart,Yamraj,2.251,1.757,6.7,2,5
+Clover Grocery,Ananya,2.246,3.795,2.0,1,5
+Superstore Save-On-Foods,Anushka,2.237,1.522,6.6,1,3
+Bloor Street,Anushka,2.222,3.694,5.6,1,3
+Bromley Food Store,Anushka,2.215,3.995,6.2,2,3
+Market Real,Pauliene,2.208,3.943,1.4,5,2
+Bloor Street,Ananya,2.207,2.313,5.2,4,4
+Clover Grocery,Rahul,2.203,1.852,2.7,4,3
+Pepper’s Grocery,Rakesh,2.2,2.687,5.8,5,4
+Sunrise Mart,Ananya,2.196,1.929,4.7,2,5
+The Grocery Outlet,Janvi,2.195,3.218,4.7,4,4
+Bromley Food Store,Vedant,2.194,1.056,2.6,3,5
+Sunrise Mart,Sambhavi,2.193,2.202,6.7,4,3
+Bromley Food Store,Dipak,2.192,2.317,5.1,3,1
+Superstore Save-On-Foods,Yamraj,2.191,3.904,3.4,3,1
+Market Real,Karthikey,2.191,3.165,6.8,1,1
+Superstore Save-On-Foods,Vedant,2.181,3.352,1.4,1,5
+Sunrise Mart,Karthikey,2.18,2.36,4.7,1,4
+Superstore Save-On-Foods,Yamraj,2.177,1.267,2.4,4,4
+Market Real,Rakesh,2.176,1.7,4.6,3,1
+Market Real,Vedant,2.153,3.765,2.2,5,5
+Bloor Street,Karthikey,2.148,1.594,1.8,1,2
+Sunrise Mart,Sambhavi,2.137,2.76,6.3,3,1
+Bloor Street,Dipak,2.131,1.651,2.4,5,1
+The Grocery Outlet,Dipak,2.128,1.575,2.5,3,4
+Market Real,Dipak,2.11,2.228,6.8,1,4
+Bloor Street,Anushka,2.096,2.923,3.8,1,4
+Bromley Food Store,Anushka,2.091,2.44,6.7,2,2
+Market Real,Yamraj,2.086,3.509,6.6,1,3
+Superstore Save-On-Foods,Rahul,2.085,1.534,5.3,3,3
+Market Real,Janvi,2.077,1.333,5.3,5,1
+Bloor Street,Vedant,2.071,2.481,4.2,5,4
+Pepper’s Grocery,Sambhavi,2.065,3.173,6.7,1,2
+Sunrise Mart,Sambhavi,2.065,1.092,5.3,2,5
+Pepper’s Grocery,Dipak,2.062,3.659,6.8,5,1
+Superstore Save-On-Foods,Rakesh,2.059,3.824,4.6,4,3
+Pepper’s Grocery,Anushka,2.052,3.331,2.2,5,3
+The Grocery Outlet,Rahul,2.039,3.251,2.4,3,4
+Bromley Food Store,Vedant,2.036,2.459,3.7,2,5
+Bromley Food Store,Janvi,2.029,3.12,6.3,1,2
+Bloor Street,Ananya,2.017,2.878,1.6,3,1
+Market Real,Anushka,2.016,1.281,1.8,1,4
+Bromley Food Store,Yamraj,2.015,2.512,5.2,4,1
+Sunrise Mart,Pauliene,2.015,3.908,4.3,5,5
+Pepper’s Grocery,Pauliene,2.005,1.121,2.9,1,4
+Bloor Street,Anushka,1.998,2.62,4.9,3,2
+Sunrise Mart,Rakesh,1.993,1.74,6.8,1,5
+Pepper’s Grocery,Rahul,1.987,3.782,3.7,1,4
+Market Real,Ananya,1.984,3.643,3.7,4,3
+Market Real,Anushka,1.984,2.711,1.6,3,2
+Superstore Save-On-Foods,Rahul,1.977,1.608,5.2,3,2
+Superstore Save-On-Foods,Pauliene,1.976,1.867,5.2,4,2
+Pepper’s Grocery,Rakesh,1.974,1.136,3.8,3,2
+Sunrise Mart,Pauliene,1.971,1.462,2.2,2,4
+The Grocery Outlet,Karthikey,1.971,3.428,6.3,5,4
+Bloor Street,Rahul,1.963,1.749,2.0,5,2
+Superstore Save-On-Foods,Janvi,1.96,3.483,5.3,3,1
+Superstore Save-On-Foods,Vedant,1.946,1.549,3.0,4,4
+Bloor Street,Yamraj,1.937,1.116,1.4,3,3
+The Grocery Outlet,Yamraj,1.935,2.779,4.4,1,5
+Bromley Food Store,Ananya,1.92,1.932,1.8,5,2
+Sunrise Mart,Ananya,1.919,1.061,3.5,2,3
+Superstore Save-On-Foods,Anushka,1.916,1.582,6.0,4,4
+The Grocery Outlet,Pauliene,1.911,3.521,3.6,5,4
+Superstore Save-On-Foods,Ananya,1.91,1.991,4.1,2,1
+Superstore Save-On-Foods,Vedant,1.902,3.492,1.7,2,3
+Pepper’s Grocery,Dipak,1.884,3.736,3.4,5,1
+Bromley Food Store,Dipak,1.882,1.484,4.0,5,1
+Sunrise Mart,Rahul,1.879,2.229,6.2,5,2
+Sunrise Mart,Dipak,1.877,3.708,3.0,3,1
+Superstore Save-On-Foods,Dipak,1.876,3.095,6.2,1,4
+Market Real,Dipak,1.872,2.431,3.2,3,5
+The Grocery Outlet,Sambhavi,1.869,2.361,6.9,4,1
+Sunrise Mart,Vedant,1.867,2.226,7.0,5,4
+The Grocery Outlet,Rakesh,1.865,3.176,5.4,1,2
+The Grocery Outlet,Sambhavi,1.849,2.624,6.4,1,4
+Superstore Save-On-Foods,Dipak,1.835,2.774,3.3,1,5
+Bromley Food Store,Karthikey,1.831,1.005,6.0,4,3
+The Grocery Outlet,Yamraj,1.822,2.763,3.7,1,5
+Clover Grocery,Rakesh,1.817,1.53,3.0,4,5
+Clover Grocery,Anushka,1.813,3.336,3.0,5,2
+Bloor Street,Rakesh,1.812,2.307,5.2,5,1
+Bloor Street,Rahul,1.812,1.031,6.2,4,5
+Clover Grocery,Rakesh,1.797,1.753,6.6,1,5
+The Grocery Outlet,Rahul,1.795,2.522,1.5,3,4
+Bloor Street,Janvi,1.79,1.833,2.7,1,4
+Market Real,Dipak,1.786,3.281,5.0,3,5
+Superstore Save-On-Foods,Rakesh,1.779,1.474,4.9,5,2
+Sunrise Mart,Rahul,1.767,3.023,5.2,2,5
+Pepper’s Grocery,Sambhavi,1.765,2.334,5.5,2,4
+Market Real,Rahul,1.763,3.818,2.6,1,1
+The Grocery Outlet,Janvi,1.754,2.399,5.2,2,4
+Superstore Save-On-Foods,Vedant,1.744,1.362,3.2,2,4
+Market Real,Yamraj,1.737,2.487,2.5,3,5
+Superstore Save-On-Foods,Pauliene,1.732,1.285,6.1,3,1
+Clover Grocery,Vedant,1.731,1.066,1.6,1,1
+Sunrise Mart,Dipak,1.73,1.117,3.1,2,1
+Bromley Food Store,Karthikey,1.722,3.304,2.7,1,5
+Bromley Food Store,Ananya,1.716,2.194,3.6,2,1
+Sunrise Mart,Rahul,1.714,3.888,5.9,1,1
+Superstore Save-On-Foods,Ananya,1.713,2.175,3.5,3,4
+The Grocery Outlet,Ananya,1.7,3.109,1.7,2,3
+Bromley Food Store,Yamraj,1.696,1.943,6.5,2,2
+Market Real,Ananya,1.687,1.132,4.6,2,3
+Clover Grocery,Ananya,1.656,3.626,6.6,4,1
+Bromley Food Store,Yamraj,1.631,2.869,5.2,5,2
+Superstore Save-On-Foods,Janvi,1.63,3.965,5.9,4,1
+Superstore Save-On-Foods,Ananya,1.62,1.457,2.9,1,2
+Bromley Food Store,Rahul,1.617,3.465,4.8,4,5
+Bromley Food Store,Pauliene,1.602,2.207,1.2,3,2
+Superstore Save-On-Foods,Anushka,1.6,3.424,6.3,1,5
+Bloor Street,Rakesh,1.6,3.303,6.1,2,1
+Sunrise Mart,Anushka,1.599,1.828,2.1,3,5
+Bromley Food Store,Karthikey,1.589,3.762,5.2,2,3
+The Grocery Outlet,Vedant,1.587,1.337,6.4,1,2
+Superstore Save-On-Foods,Janvi,1.579,2.884,2.4,1,5
+Clover Grocery,Rahul,1.578,1.662,3.8,2,1
+Superstore Save-On-Foods,Rakesh,1.577,1.944,1.4,5,2
+Superstore Save-On-Foods,Rahul,1.575,3.107,1.3,5,2
+Clover Grocery,Dipak,1.559,2.627,1.5,1,1
+Sunrise Mart,Sambhavi,1.551,3.839,4.8,2,1
+Bromley Food Store,Pauliene,1.55,3.185,6.1,4,2
+Bromley Food Store,Janvi,1.53,1.452,5.6,3,4
+Clover Grocery,Rakesh,1.529,1.19,5.2,5,4
+Sunrise Mart,Yamraj,1.527,3.212,5.8,1,2
+Clover Grocery,Vedant,1.525,2.328,3.8,5,4
+The Grocery Outlet,Dipak,1.517,1.418,6.5,2,1
+Sunrise Mart,Anushka,1.501,1.625,6.7,1,3
+Sunrise Mart,Vedant,1.491,3.011,6.9,1,4
+The Grocery Outlet,Karthikey,1.485,1.532,5.4,1,5
+Pepper’s Grocery,Yamraj,1.485,3.411,5.9,4,2
+Bloor Street,Vedant,1.483,1.847,6.0,3,3
+Sunrise Mart,Dipak,1.482,3.525,2.3,1,1
+Bromley Food Store,Karthikey,1.469,1.584,5.1,5,5
+Bloor Street,Anushka,1.463,1.741,1.4,2,4
+Sunrise Mart,Sambhavi,1.46,1.695,3.1,4,1
+The Grocery Outlet,Vedant,1.449,2.618,4.2,1,3
+Bromley Food Store,Dipak,1.449,1.044,6.3,4,5
+Bromley Food Store,Sambhavi,1.444,3.998,1.5,2,1
+Superstore Save-On-Foods,Pauliene,1.444,3.698,1.9,2,3
+The Grocery Outlet,Dipak,1.422,3.504,5.3,1,1
+Bloor Street,Janvi,1.413,2.593,2.0,5,4
+The Grocery Outlet,Pauliene,1.406,3.271,6.1,2,1
+The Grocery Outlet,Janvi,1.404,2.459,5.6,5,3
+Pepper’s Grocery,Ananya,1.403,2.591,5.2,3,3
+The Grocery Outlet,Rahul,1.397,2.142,3.1,1,5
+Bromley Food Store,Vedant,1.389,3.669,3.8,3,5
+Bromley Food Store,Rakesh,1.388,2.941,1.4,5,2
+Bloor Street,Dipak,1.386,1.884,5.0,3,5
+Bromley Food Store,Rakesh,1.367,3.238,3.6,1,4
+The Grocery Outlet,Vedant,1.366,1.955,1.7,5,3
+Market Real,Yamraj,1.361,2.047,5.3,5,4
+Market Real,Anushka,1.353,2.576,4.9,4,5
+Clover Grocery,Anushka,1.35,1.4,5.8,5,1
+Bromley Food Store,Sambhavi,1.348,3.672,4.1,5,1
+Sunrise Mart,Vedant,1.343,3.342,5.8,1,2
+Superstore Save-On-Foods,Vedant,1.323,3.649,6.9,4,4
+The Grocery Outlet,Vedant,1.319,3.736,3.3,3,2
+Sunrise Mart,Janvi,1.297,3.605,4.5,4,3
+Pepper’s Grocery,Rahul,1.288,1.172,3.2,3,2
+Clover Grocery,Karthikey,1.283,3.722,6.4,4,3
+Clover Grocery,Ananya,1.266,1.741,2.9,5,4
+Sunrise Mart,Karthikey,1.263,2.626,5.9,4,1
+Superstore Save-On-Foods,Rakesh,1.26,1.695,3.5,1,3
+Clover Grocery,Rakesh,1.239,3.804,6.1,1,4
+Sunrise Mart,Vedant,1.233,3.093,6.1,3,4
+The Grocery Outlet,Rakesh,1.231,2.276,6.6,5,5
+Sunrise Mart,Rahul,1.225,2.261,6.0,3,4
+Superstore Save-On-Foods,Rahul,1.223,1.322,4.8,1,1
+Bromley Food Store,Sambhavi,1.219,2.223,3.7,5,4
+Sunrise Mart,Rahul,1.218,3.808,4.5,5,4
+Clover Grocery,Rakesh,1.209,2.264,5.1,1,4
+Market Real,Rahul,1.203,3.439,4.9,1,4
+Clover Grocery,Sambhavi,1.193,2.132,2.9,3,3
+Pepper’s Grocery,Karthikey,1.189,3.543,3.1,4,4
+The Grocery Outlet,Sambhavi,1.183,1.235,4.5,2,2
+Sunrise Mart,Sambhavi,1.169,2.962,1.1,4,5
+Sunrise Mart,Vedant,1.166,3.101,5.3,4,1
+Superstore Save-On-Foods,Vedant,1.158,3.876,5.4,5,4
+The Grocery Outlet,Rakesh,1.149,2.969,4.8,2,3
+Superstore Save-On-Foods,Karthikey,1.139,3.349,2.2,4,1
+Clover Grocery,Rakesh,1.125,3.915,6.5,5,5
+Market Real,Pauliene,1.124,1.139,5.7,2,1
+Pepper’s Grocery,Pauliene,1.121,3.951,5.5,1,4
+Pepper’s Grocery,Sambhavi,1.116,2.195,5.8,1,1
+Market Real,Karthikey,1.111,1.435,5.5,3,5
+Clover Grocery,Sambhavi,1.1,2.199,1.6,3,2
+Bromley Food Store,Karthikey,1.093,3.351,2.8,4,2
+Superstore Save-On-Foods,Janvi,1.093,3.538,5.5,2,3
+The Grocery Outlet,Yamraj,1.092,2.063,2.5,2,4
+Bromley Food Store,Sambhavi,1.091,1.113,6.7,4,2
+Sunrise Mart,Janvi,1.08,2.51,4.0,5,4
+Bloor Street,Dipak,1.067,2.972,5.6,4,2
+The Grocery Outlet,Janvi,1.063,1.905,2.2,5,5
+The Grocery Outlet,Dipak,1.057,2.869,4.4,2,3
+Bloor Street,Ananya,1.057,1.849,5.6,2,3
+Bromley Food Store,Karthikey,1.053,1.534,4.0,1,3
+Bloor Street,Vedant,1.043,2.641,4.6,2,2
+Pepper’s Grocery,Pauliene,1.03,1.338,1.4,2,3
+The Grocery Outlet,Karthikey,1.024,2.528,2.1,1,3
+Superstore Save-On-Foods,Rakesh,1.015,3.374,4.5,2,3
+Sunrise Mart,Sambhavi,1.012,3.984,1.9,3,4
+Sunrise Mart,Dipak,1.01,2.887,3.2,1,1
+Clover Grocery,Karthikey,1.005,3.194,1.7,5,3
+Sunrise Mart,Yamraj,1.002,3.137,6.3,5,3
